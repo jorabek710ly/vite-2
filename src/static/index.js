@@ -51,8 +51,8 @@ export const gadgetData = [
         deal: "Learn more",
         purchasingButton: "Buy now",
         backgroundImage: MonitorsMemoryBg,
-        color: "#000",
-        colorButton: "#fff"
+        color: "#fff",
+        colorButton: "#000"
     }
 ]
 
