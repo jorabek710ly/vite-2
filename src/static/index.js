@@ -27,8 +27,8 @@ export const gadgetData = [
         deal: "Shop all TV deals",
         purchasingButton: "Buy now",
         backgroundImage: TvAudioBg,
-        color: "#fff",
-        colorButton: "#000"
+        color: "#000",
+        colorButton: "#fff"
     },
     {
         id: 3,
@@ -51,8 +51,8 @@ export const gadgetData = [
         deal: "Learn more",
         purchasingButton: "Buy now",
         backgroundImage: MonitorsMemoryBg,
-        color: "#fff",
-        colorButton: "#000"
+        color: "#000",
+        colorButton: "#fff"
     }
 ]
 
